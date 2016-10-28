@@ -1,0 +1,22 @@
+https://git-scm.com/download/win
+
+Equipe 1 : 
+Sebastien - Xiao - Aliou - Victor
+https://www.data.gouv.fr/s/resources/base-de-donnees-accidents-corporels-de-la-circulation/20160909-181344/usagers_2015.csv
+https://www.data.gouv.fr/s/resources/base-de-donnees-accidents-corporels-de-la-circulation/20160926-173908/Description_des_bases_de_donnees_ONISR_-Annees_2005_a_2015.pdf
+
+
+Equipe 2 : Robert - Hejer 
+http://fr.openfoodfacts.org/data/fr.openfoodfacts.org.products.csv
+
+
+Equipe 3: Estelle - Redha -
+http://data.culture.fr/entrepot/MERIMEE/ --> https://www.data.gouv.fr/fr/datasets/monuments-historiques-liste-des-immeubles-proteges-au-titre-des-monuments-historiques/
+c'est ou le lien??
+
+Equipe 4: Ousmane - Amaël - Selim - Dominique
+http://www.ideeslibres.org/opendata/elus_municipaux_2008-2014/prenoms.csv
+
+
+
+http://static.data.gouv.fr/41/363ec0e431633eea7e187053a2e3220c2fc9f3900fa50e7179f6ca58c607c2.csv
